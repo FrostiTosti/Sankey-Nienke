@@ -13,7 +13,7 @@
                 ]
             },
             "orientation": "h",
-            "valueformat": "0.0000",
+            "valueformat": "0.0000f",
             "valuesuffix": "%",
             "node": {
                 "pad": 15,
